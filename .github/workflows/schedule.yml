@@ -13,5 +13,5 @@ jobs:
         uses: shuo-young/waka-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: c097e980354815260f5740caa0537e48
+          GIST_ID: 1e43214b3668bfe8f1183170a4a40d83
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
